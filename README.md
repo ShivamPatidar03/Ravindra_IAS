@@ -48,8 +48,8 @@ A premium, cinematic, and high-conversion landing page for **Ravindra IAS Gwalio
 
 ## ✒️ Author
 
-**Shivam Patidar**
-**Ashish Kumar Sen**
+- **Shivam Patidar**
+- **Ashish Kumar Sen**
 
 ---
 *Mentoring Tomorrow's Leaders, Today in Gwalior.*
